@@ -8,7 +8,7 @@ To setup:
 - In Connection.py , make sure line 56 is '/dev/ttyACM1' or '/dev/ttyACM0' depending on the USB port arduino is connected to
 - Run Connection.py
 
-A mobile application was written to act as the main user interface for the system
+A mobile application was written to act as the main user interface for the system.
 The mobile application publishes on the MQTT broker.
 
 App repo: https://github.com/InterVam/Network-Secura
