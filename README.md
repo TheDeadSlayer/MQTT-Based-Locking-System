@@ -11,7 +11,8 @@ To setup:
 A mobile application was written to act as the main user interface for the system.
 The mobile application publishes on the MQTT broker.
 
-App repo: https://github.com/InterVam/Network-Secura
+App repo: https://github.com/InterVam/Network-Secura.
+
 Through the application the user can:
 - Create an account on the system
 - Log user into the application
