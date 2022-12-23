@@ -5,7 +5,7 @@ The arduino system subscribes to the MQTT broker.
 To setup:
 - Upload FingerFinal.ino to arduino
 - Connect raspberry pi to arudino via USB
-- In Connection.py , make sure line 56 is '/dev/ttyACM1' or '/dev/ttyACM0' depending on the USB port arduino is connected to
+- In Connection.py , make sure line 73 is '/dev/ttyACM1' or '/dev/ttyACM0' depending on the USB port arduino is connected to
 - Run Connection.py
 
 A mobile application was written to act as the main user interface for the system.
